@@ -20,14 +20,14 @@ async def upgrade(bot,update):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `hxbots@sbi`
+	Pay Using Upi I'd `gauravhatake@fam`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Kirodewal"""
+        Payment To Admin @ANIME_TIMETV"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("Admin",url = "https://t.me/kirodewal")], 
-        			[InlineKeyboardButton("Phone Pay",url = "https://upayme.vercel.app/Hxbots@sbi"),
-        			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://upayme.vercel.app/Hxbots@sbi")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("Admin",url = "https://t.me/ANIME_TIMETV")], 
+        			[InlineKeyboardButton("Phone Pay",url = "https://upayme.vercel.app/gauravhatake@fam"),
+        			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://upayme.vercel.app/gauravhatake@fam")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await update.message.edit(text = text,reply_markup = keybord)
 	
 
@@ -50,24 +50,16 @@ async def upgradecm(bot,message):
 	Price Rs 179  ind /🌎 2.16$  per Month
 	
 	
-	Pay Using Upi I'd `HxBots@sbi`
+	Pay Using Upi I'd `Gauravhatake@fam`
 	
 	After Payment Send Screenshots Of 
-        Payment To Admin @Kirodewal"""
+        Payment To Admin @ANIME_TIMETV"""
 	keybord = InlineKeyboardMarkup([[ 
-        			InlineKeyboardButton("Admin",url = "https://t.me/kirodewal")], 
-        			[InlineKeyboardButton("Phone Pay",url = "https://upayme.vercel.app/Hxbots@sbi"),
-        			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://upayme.vercel.app/Hxbots@sbi")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
+        			InlineKeyboardButton("Admin",url = "https://t.me/ANIME_TIMETV")], 
+        			[InlineKeyboardButton("Phone Pay",url = "https://upayme.vercel.app/gauravhatake@fam"),
+        			InlineKeyboardButton("Paytm Wallet/UPI",url = "https://upayme.vercel.app/gauravhatake@fam")],[InlineKeyboardButton("Cancel",callback_data = "cancel")  ]])
 	await message.reply_text(text = text,reply_markup = keybord)
 
 
 
 
-
-
-
-
-# Jishu Developer 
-# Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
-# Developer @JishuDeveloper
